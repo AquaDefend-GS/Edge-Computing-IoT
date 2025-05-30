@@ -73,13 +73,14 @@ O sistema conta com uma sequência de inicialização que exibe um logo customiz
 |                    | Echo            | D8              | Pino Digital 8                 |
 | **LED Verde**      | Catodo (-)      | GND             |                                |
 |                    | Anodo (+)       | Resistor 220Ω   | Resistor em série              |
-| *Resistor (Verde)* | Outro lado      | D6              | Pino Digital 6                 |
+| *Resistor (Verde)* | Outro lado      | D2              | Pino Digital 2                 |
 | **LED Amarelo**    | Catodo (-)      | GND             |                                |
 |                    | Anodo (+)       | Resistor 220Ω   | Resistor em série              |
-| *Resistor (Amarelo)*| Outro lado      | D7              | Pino Digital 7                 |
+| *Resistor (Amarelo)*| Outro lado      | D3              | Pino Digital 3                 |
 | **LED Vermelho**   | Catodo (-)      | GND             |                                |
 |                    | Anodo (+)       | Resistor 220Ω   | Resistor em série              |
-| *Resistor (Vermelho)*| Outro lado     | D10             | Pino Digital 10                |
+| *Resistor (Vermelho)*| Outro lado     | D4              | Pino Digital 4                 |
+
 
 ## 3. Guia para Simular o Projeto no Wokwi
 
