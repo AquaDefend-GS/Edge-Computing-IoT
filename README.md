@@ -131,7 +131,7 @@ Assista a uma demonstração do AquaDefend em ação:
 
 O código fonte completo e comentado para este projeto está disponível neste repositório:
 
-*   [`aqua_defend_final_v1.0.ino`](./aqua_defend_final_v1.0.ino)
+*   [`aqua_defend_v1.0.ino`](./aqua_defend_v1.ino)
 
 O código segue boas práticas de programação, incluindo:
 
