@@ -2,7 +2,7 @@
 
 # AquaDefend - Sistema de Monitoramento de Nível de Água com Alerta Simulado - GlobalSolution
 
-[![Wokwi](https://img.shields.io/badge/Simular%20no-Wokwi-4BC0A4?style=flat&logo=wokwi)](INSERIR-LINK-WOKWI-AQUI)
+[![Wokwi](https://img.shields.io/badge/Simular%20no-Wokwi-4BC0A4?style=flat&logo=wokwi)](https://wokwi.com/projects/432297116988662785)
 
 ## 1. Descrição do Problema
 
