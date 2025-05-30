@@ -50,11 +50,12 @@ O sistema conta com uma sequência de inicialização que exibe um logo customiz
 
 ### Diagrama da Montagem
 
-```
-![image](https://github.com/user-attachments/assets/37dd7425-19ed-442a-9410-45d3e1720922)
 
 
-```
+![Gs-Arduino](https://github.com/user-attachments/assets/7a9060b2-fb3c-4adf-aa30-a3c9acf34acb)
+
+
+
 
 **Tabela de Conexões:**
 
