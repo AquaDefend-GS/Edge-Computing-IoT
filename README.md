@@ -94,7 +94,7 @@ Wokwi é um simulador online gratuito e poderoso para Arduino, ESP32 e outros mi
     *   À direita, você encontrará o código (`sketch.ino`) e a janela do Serial Monitor.
 
 3.  **Ajuste Inicial da Hora (Opcional):** Se for a primeira vez que você roda a simulação ou se a hora parecer incorreta:
-    *   No código (`sketch.ino`), localize a linha: `// rtc.adjust(DateTime(2025, 5, 30, 19, 40, 0));`
+    *   No código (`sketch.ino`), localize a linha: `// rtc.adjust(DateTime(2025, 5, 30, 19, 40, 0));` (Linha 107)
     *   Remova o `//` do início.
     *   Altere os números para representar o ano, mês, dia, hora, minuto e segundo atuais.
     *   Clique no botão verde ▶️ ("Start simulation"). Deixe rodar por 5-10 segundos.
