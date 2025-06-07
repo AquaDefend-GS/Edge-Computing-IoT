@@ -121,10 +121,9 @@ Wokwi é um simulador online gratuito e poderoso para Arduino, ESP32 e outros mi
 
 Assista a uma demonstração do AquaDefend em ação:
 
-```
-[INSERIR LINK DO VÍDEO DEMONSTRATIVO AQUI]
 
-```
+https://youtu.be/dcaykSkBQBk
+
 
 ## 5. Código Fonte
 
